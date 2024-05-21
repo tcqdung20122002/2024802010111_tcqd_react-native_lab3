@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294862802829",
+    "project_id": "lab3-qly-spa",
+    "storage_bucket": "lab3-qly-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294862802829:android:97118d6444acd38a67b7c4",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WpkeZISXWVHWDiL48pwIIocHoNVolMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
